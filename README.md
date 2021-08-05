@@ -39,7 +39,7 @@ npm install
 Start to watch db file/s with JSON server
 
 ```
-npx json-server --watch data/db.json --port 1313
+npx json-server --watch data/db.json --port 1309
 ```
 
 In project directory
