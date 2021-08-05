@@ -35,9 +35,8 @@ font-size: 1.7rem;
 font-weight: 700;
 color: #00C6AF;
 `
-const Error = styled(IsLoading)`
+const Error = styled(IsLoading)``
 
-`
 const DeleteButton = styled.button`
 width: 80px;
 margin:1em auto 0 auto;
